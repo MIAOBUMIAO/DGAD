@@ -18,7 +18,7 @@ The structure of RES:
 
 # 2. Experiment
 
-Samples on UAN-HAZE:
+Samples on UAV-HAZE:
 
 <img src="https://github.com/MIAOBUMIAO/DGAD/blob/main/images/UAV-HAZE.png" width="600px">
 
